@@ -1,0 +1,4 @@
+---
+# defaults file for iis
+iis_test_message: Hello from IIS -
+iis_target_site_path: 'c:\inetpub\wwwroot'
